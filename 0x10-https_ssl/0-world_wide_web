@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Usage: ./1-world_wide_web <domain> <subdomain>
+# Usage: ./1-world_wide_web <100.26.214.153> <54.196.41.253>
 # Display information about subdomains.
 
 domain_information () {
